@@ -1,4 +1,4 @@
-# learning_lean4
+# Learning Lean4
 
 A group effort to learn `lean4` 🙂
 
