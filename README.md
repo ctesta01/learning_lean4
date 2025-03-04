@@ -18,3 +18,5 @@ Some of our real goals include:
   - How to apply the calculus of Stein's Method CLTs
   - How to apply the calculus of Eigenvalues of Random Matrices
 
+These "real goals" are motivated by the general question: If a mathematical subject has a 'calculus' to it, can we implement that 
+in Lean4?  Especially, can we write methods/functions in Lean4 to apply the calculus that are formal-proof-verified.

@@ -1,3 +1,7 @@
+# Hello World
+
+*Christian Testa, March 4th, 2025*
+
 In this document, we might write down some things we learn about the basics of using Lean4. 
 
 There are lots of resources, and it's simple enough to link to resources like 
