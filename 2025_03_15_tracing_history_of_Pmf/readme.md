@@ -7,6 +7,10 @@ What I've been reading lately:
   * <https://leanprover-community.github.io/blog/posts/basic-probability-in-mathlib/>
   * <https://leanprover.github.io/theorem_proving_in_lean4/title_page.html>
 
+I also feel like this will be a really handy resource: 
+
+  * <https://github.com/madvorak/lean4-tactics>
+
 I want to pursue what was the the development history of probability in Lean4?  What did they start with? 
 
 It turns out it was a lot of porting over what had been done in Lean3. 
